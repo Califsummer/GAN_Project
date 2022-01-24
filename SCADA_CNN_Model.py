@@ -101,8 +101,6 @@ checkpoint = tf.train.Checkpoint(generator_optimizer=generator_optimizer,
                                  generator=generator,
                                  discriminator=discriminator)
 
-
-
 EPOCHS = 150
 noise_dim = 100
 num_examples_to_generate = 16
