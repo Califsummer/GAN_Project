@@ -1,7 +1,5 @@
 #The code in this file is used to preprocess raw data acquired from SCADA system
 
-
-
 import pandas as pd
 import tensorflow as tf
 import numpy as np
