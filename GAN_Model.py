@@ -1,4 +1,4 @@
-# Another implementation of GAN
+#The code in this file implements a GAN (Generative Adversarial Network) model is for generating data that resembles real-world data
 
 import pandas as pd
 import tensorflow as tf
