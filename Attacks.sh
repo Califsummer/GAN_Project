@@ -1,4 +1,4 @@
-# The code in this file is used to launch attacks in SCADA testbed
+# The code in this file is used to launch attacks in SCADA testbed 
 
 while [ true ]
 do
