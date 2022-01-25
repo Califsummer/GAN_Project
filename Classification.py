@@ -123,5 +123,5 @@ res.update_state(pred_class, y_class)
 res.result().numpy()
 
 pred_index = np.where(pred_class == 1)
-real_index = np.where(data_Real['isAttack'] == 1)
+real_index = np.where(data_Real['isAttack'] == 1) 
 print(classreport(data['isAttack'],pred_class))
