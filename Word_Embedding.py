@@ -30,7 +30,7 @@ window = 2
 attack_lists = []
 all_attack = []
 
-# Creating a context dictionary
+# Creating a context dictionary 
 for i, attack in enumerate(attackStrings):
     for w in range(window):
         # Getting the context that is ahead by *window* words
